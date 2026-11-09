@@ -1,0 +1,18 @@
+# службове / не публікувати (SITE_PLAYBOOK §0.10, §10)
+_t/
+.claude/
+.htaccess
+Ready.svg
+*.svg.bak
+новий (1).svg
+thankyoupage/
+thankyoupageoto/
+thankyoupageoto-2/
+.DS_Store
+# залишки попередніх спроб і бекап старої сторінки
+code.txt
+index-code.html
+index-old.html
+css/figma-2026.css
+images/figma-2026/
+images/code-2026/
