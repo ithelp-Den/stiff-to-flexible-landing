@@ -6,8 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
       loop: true, // Залишаємо true для безкінечного гортання
       spaceBetween: 20, // Відступ між слайдами з Figma (20px)
       slidesPerView: 'auto', // Ширина слайда = ширина картинки (295px у дизайні)
-      centeredSlides: true, // Активний слайд по центру, сусідні видно з боків
-      initialSlide: 1,
+      centeredSlides: false, // Як у Figma: перший слайд від лівого краю, наступний видно справа
+      initialSlide: 0,
       autoplay: false, // Без автоскролу по таймінгу
       autoHeight: false,
 
